@@ -1,0 +1,25 @@
+.header {
+    background-color: #7FB3D5;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    width: 20%;
+    border-radius: 50%;
+    height: 20%;
+    margin-right: 10px;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+

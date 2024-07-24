@@ -1,0 +1,22 @@
+*lists the 10 HTML tags and 5 CSS properties you’ve used, as well as a brief
+(one-sentence) description of how you chose to use JavaScript and Bootstrap.
+
+HTML Tags
+1.
+2
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+CSS Properties
+1.
+2.
+3.
+4.
+5.

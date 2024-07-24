@@ -1,0 +1,55 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Both random and reversed were growing in time
+portionally with the size. It was very quick when the list was sorted
+
+    Random 5000: 0.108s
+    Random 10000: 0.241s
+    Random 50000: 5.743s
+
+    Reversed 5000: 0.089s
+    Reversed 10000: 0.260s
+    Reversed 50000: 4.948s
+
+    Sorted 5000: 0.077s
+    Sorted 10000: 0.090s
+    Sorted 50000: 0.477s
+
+
+sort2 uses: Merge Sort
+
+How do you know?: In all cases, random, sorted, and reversed the time
+of the compiler was porpotional. The sorting was very fast.
+
+    Random 5000: 0.040s
+    Random 10000: 0.123s
+    Random 50000: 0.471s
+
+    Reversed 5000: 0.070s
+    Reversed 10000: 0.087s
+    Reversed 50000: 0.497s
+
+    Sorted 5000: 0.037s
+    Sorted 10000: 0.118s
+    Sorted 50000: 0.421s
+
+
+
+sort3 uses: Selection Sort
+
+How do you know?: In all cases the time was porpotionally the same.
+The times were long.
+
+    Random 5000: 0.108s
+    Random 10000: 0.151s
+    Random 50000: 2.653s
+
+    Reversed 5000: 0.050s
+    Reversed 10000: 0.194s
+    Reversed 50000: 2.564s
+
+    Sorted 5000: 0.061s
+    Sorted 10000: 0.143s
+    Sorted 50000: 2.498s
+
+
